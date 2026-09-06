@@ -1,0 +1,3 @@
+variable,variant_a,variant_b,mean_a,mean_b,lift_variant_b_pct,p_value,statistically_significant
+format,Short,Long,8.3769,7.0907,-15.3535,1.180392604093753e-49,Yes
+hook,Visual,Text,8.5587,7.1803,-16.1057,2.8264226237123224e-59,Yes

@@ -1,0 +1,113 @@
+topic,day_ahead,forecast_viral_coefficient,trend_slope
+Burnout,1,7.2418,0.001981
+Burnout,2,7.2438,0.001981
+Burnout,3,7.2458,0.001981
+Burnout,4,7.2478,0.001981
+Burnout,5,7.2497,0.001981
+Burnout,6,7.2517,0.001981
+Burnout,7,7.2537,0.001981
+Burnout,8,7.2557,0.001981
+Burnout,9,7.2577,0.001981
+Burnout,10,7.2596,0.001981
+Burnout,11,7.2616,0.001981
+Burnout,12,7.2636,0.001981
+Burnout,13,7.2656,0.001981
+Burnout,14,7.2676,0.001981
+Career Stress,1,6.9437,0.001552
+Career Stress,2,6.9452,0.001552
+Career Stress,3,6.9468,0.001552
+Career Stress,4,6.9483,0.001552
+Career Stress,5,6.9499,0.001552
+Career Stress,6,6.9515,0.001552
+Career Stress,7,6.953,0.001552
+Career Stress,8,6.9546,0.001552
+Career Stress,9,6.9561,0.001552
+Career Stress,10,6.9577,0.001552
+Career Stress,11,6.9592,0.001552
+Career Stress,12,6.9608,0.001552
+Career Stress,13,6.9623,0.001552
+Career Stress,14,6.9639,0.001552
+College Life,1,6.5209,-3.8e-05
+College Life,2,6.5209,-3.8e-05
+College Life,3,6.5208,-3.8e-05
+College Life,4,6.5208,-3.8e-05
+College Life,5,6.5208,-3.8e-05
+College Life,6,6.5207,-3.8e-05
+College Life,7,6.5207,-3.8e-05
+College Life,8,6.5207,-3.8e-05
+College Life,9,6.5206,-3.8e-05
+College Life,10,6.5206,-3.8e-05
+College Life,11,6.5205,-3.8e-05
+College Life,12,6.5205,-3.8e-05
+College Life,13,6.5205,-3.8e-05
+College Life,14,6.5204,-3.8e-05
+Dating,1,7.1839,-0.003596
+Dating,2,7.1803,-0.003596
+Dating,3,7.1767,-0.003596
+Dating,4,7.1731,-0.003596
+Dating,5,7.1695,-0.003596
+Dating,6,7.1659,-0.003596
+Dating,7,7.1623,-0.003596
+Dating,8,7.1587,-0.003596
+Dating,9,7.1551,-0.003596
+Dating,10,7.1515,-0.003596
+Dating,11,7.1479,-0.003596
+Dating,12,7.1443,-0.003596
+Dating,13,7.1407,-0.003596
+Dating,14,7.1371,-0.003596
+Family Pressure,1,6.8851,9.2e-05
+Family Pressure,2,6.8852,9.2e-05
+Family Pressure,3,6.8853,9.2e-05
+Family Pressure,4,6.8854,9.2e-05
+Family Pressure,5,6.8855,9.2e-05
+Family Pressure,6,6.8855,9.2e-05
+Family Pressure,7,6.8856,9.2e-05
+Family Pressure,8,6.8857,9.2e-05
+Family Pressure,9,6.8858,9.2e-05
+Family Pressure,10,6.8859,9.2e-05
+Family Pressure,11,6.886,9.2e-05
+Family Pressure,12,6.8861,9.2e-05
+Family Pressure,13,6.8862,9.2e-05
+Family Pressure,14,6.8863,9.2e-05
+Friendship,1,7.3494,0.000237
+Friendship,2,7.3496,0.000237
+Friendship,3,7.3498,0.000237
+Friendship,4,7.3501,0.000237
+Friendship,5,7.3503,0.000237
+Friendship,6,7.3505,0.000237
+Friendship,7,7.3508,0.000237
+Friendship,8,7.351,0.000237
+Friendship,9,7.3512,0.000237
+Friendship,10,7.3515,0.000237
+Friendship,11,7.3517,0.000237
+Friendship,12,7.352,0.000237
+Friendship,13,7.3522,0.000237
+Friendship,14,7.3524,0.000237
+Self-Doubt,1,7.2285,-0.000117
+Self-Doubt,2,7.2284,-0.000117
+Self-Doubt,3,7.2282,-0.000117
+Self-Doubt,4,7.2281,-0.000117
+Self-Doubt,5,7.228,-0.000117
+Self-Doubt,6,7.2279,-0.000117
+Self-Doubt,7,7.2278,-0.000117
+Self-Doubt,8,7.2277,-0.000117
+Self-Doubt,9,7.2275,-0.000117
+Self-Doubt,10,7.2274,-0.000117
+Self-Doubt,11,7.2273,-0.000117
+Self-Doubt,12,7.2272,-0.000117
+Self-Doubt,13,7.2271,-0.000117
+Self-Doubt,14,7.227,-0.000117
+Social Anxiety,1,8.7275,0.000312
+Social Anxiety,2,8.7278,0.000312
+Social Anxiety,3,8.7281,0.000312
+Social Anxiety,4,8.7284,0.000312
+Social Anxiety,5,8.7287,0.000312
+Social Anxiety,6,8.729,0.000312
+Social Anxiety,7,8.7294,0.000312
+Social Anxiety,8,8.7297,0.000312
+Social Anxiety,9,8.73,0.000312
+Social Anxiety,10,8.7303,0.000312
+Social Anxiety,11,8.7306,0.000312
+Social Anxiety,12,8.7309,0.000312
+Social Anxiety,13,8.7312,0.000312
+Social Anxiety,14,8.7315,0.000312
